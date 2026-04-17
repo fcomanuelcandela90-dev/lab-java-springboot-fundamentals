@@ -1,0 +1,38 @@
+###
+GET http://localhost:8080/hello
+
+###
+GET http://localhost:8080/hello/IronHack this is my Lab :)
+
+###
+GET http://localhost:8080/add/5/5
+
+###
+GET http://localhost:8080/multiply/5/5
+
+###
+GET http://localhost:8080/weather/temperature
+
+###
+GET http://localhost:8080/weather/condition
+
+###
+GET http://localhost:8080/weather/wind
+
+###
+GET http://localhost:8080/weather/all
+
+###
+GET http://localhost:8080/time
+
+###
+GET http://localhost:8080/date
+
+###
+GET http://localhost:8080/day
+
+###
+GET http://localhost:8080/all
+
+###
+
